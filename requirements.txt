@@ -1,0 +1,8 @@
+face-recognition>=1.3.0
+pillow>=9.0.0
+numpy>=1.21.0
+six
+distutils
+selenium
+undetected-chromedriver
+minimal_server
